@@ -1,2 +1,0 @@
-org/acme/NativeGreetingResourceIT.java
- org.acme.NativeGreetingResourceIT

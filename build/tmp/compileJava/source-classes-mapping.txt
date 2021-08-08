@@ -1,6 +1,0 @@
-org/acme/GreetingResource.java
- org.acme.GreetingResource
-org/acme/UniversalService.java
- org.acme.UniversalService
-org/acme/Gift.java
- org.acme.Gift

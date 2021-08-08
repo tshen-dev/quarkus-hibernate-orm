@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.gift;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

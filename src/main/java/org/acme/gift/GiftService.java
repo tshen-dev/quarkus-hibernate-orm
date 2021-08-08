@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.gift;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
@@ -6,9 +6,9 @@ import javax.persistence.EntityManager;
 import javax.transaction.Transactional;
 
 @ApplicationScoped
-public class UniversalService {
-	@Inject
-	EntityManager em;
+public class GiftService {
+	
+	private @Inject EntityManager em;
 
 	@Transactional
 	public void createGift(String giftDescription) {
